@@ -1,1 +1,1 @@
-# Place to hold Engliah translations.
+# Place to hold English translations.
